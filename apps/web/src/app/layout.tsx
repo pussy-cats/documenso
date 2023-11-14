@@ -22,16 +22,14 @@ const fontCaveat = Caveat({ subsets: ['latin'], variable: '--font-signature' });
 
 export const metadata = {
   title: 'E - Signature PT. PGP',
-  description:
-    'Join Documenso, the open signing infrastructure, and get a 10x better signing experience. Pricing starts at $30/mo. forever! Sign in now and enjoy a faster, smarter, and more beautiful document signing process. Integrates with your favorite tools, customizable, and expandable. Support our mission and become a part of our open-source community.',
+  description: 'E - Signature Document PT. Pratama Galuh Perkasa',
   keywords:
     'Documenso, open source, DocuSign alternative, document signing, open signing infrastructure, open-source community, fast signing, beautiful signing, smart templates',
   authors: { name: 'Documenso, Inc.' },
   robots: 'index, follow',
   openGraph: {
     title: 'E - Signature PT. PGP',
-    description:
-      'Join Documenso, the open signing infrastructure, and get a 10x better signing experience. Pricing starts at $30/mo. forever! Sign in now and enjoy a faster, smarter, and more beautiful document signing process. Integrates with your favorite tools, customizable, and expandable. Support our mission and become a part of our open-source community.',
+    description: 'E - Signature Document PT. Pratama Galuh Perkasa',
     type: 'website',
     images: [`${process.env.NEXT_PUBLIC_WEBAPP_URL}/opengraph-image.jpg`],
   },
@@ -39,8 +37,7 @@ export const metadata = {
     site: '@documenso',
     card: 'summary_large_image',
     images: [`${process.env.NEXT_PUBLIC_WEBAPP_URL}/opengraph-image.jpg`],
-    description:
-      'Join Documenso, the open signing infrastructure, and get a 10x better signing experience. Pricing starts at $30/mo. forever! Sign in now and enjoy a faster, smarter, and more beautiful document signing process. Integrates with your favorite tools, customizable, and expandable. Support our mission and become a part of our open-source community.',
+    description: 'E - Signature Document PT. Pratama Galuh Perkasa',
   },
 };
 
